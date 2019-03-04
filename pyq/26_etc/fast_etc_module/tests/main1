@@ -1,0 +1,5 @@
+__name__: module1
+__name__: __main__
+module1.add(1, 2): 3
+add = module1.add
+add(1, 2): 3
